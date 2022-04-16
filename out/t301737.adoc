@@ -1,0 +1,138 @@
+Author names from Wikidata:
+['J. E. Carlstrom', 'K. A. Aird', 'B. A. Benson', 'L. E. Bleem', 'S. Busetti', 'C. L. Chang', 'E. Chauvin', 'H. -M. Cho', 'T. M. Crawford', 'A. T. Crites', 'M. A. Dobbs', 'N. W. Halverson', 'S. Heimsath', 'W. L. Holzapfel', 'J. D. Hrubes', 'M. Joy', 'R. Keisler', 'T. M. Lanting', 'A. T. Lee', 'E. M. Leitch', 'J. Leong', 'W. Lu', 'M. Lueker', 'D. Luong-Van', 'J. J. McMahon', 'J. Mehl', 'S. S. Meyer', 'J. J. Mohr', 'T. E. Montroy', 'S. Padin', 'T. Plagge', 'C. Pryke', 'J. E. Ruhl', 'K. K. Schaffer', 'D. Schwan', 'E. Shirokoff', 'H. G. Spieler', 'Z. Staniszewski', 'A. A. Stark', 'J. D. Vieira', 'R. Williamson', 'Carole Tucker', 'Kenneth Aird', 'Keith Vanderlinde', 'Peter A. R. Ade']
+Author names from NASA ADS:
+['Carlstrom, J. E.', 'Ade, P. A. R.', 'Aird, K. A.', 'Benson, B. A.', 'Bleem, L. E.', 'Busetti, S.', 'Chang, C. L.', 'Chauvin, E.', 'Cho, H. -M.', 'Crawford, T. M.', 'Crites, A. T.', 'Dobbs, M. A.', 'Halverson, N. W.', 'Heimsath, S.', 'Holzapfel, W. L.', 'Hrubes, J. D.', 'Joy, M.', 'Keisler, R.', 'Lanting, T. M.', 'Lee, A. T.', 'Leitch, E. M.', 'Leong, J.', 'Lu, W.', 'Lueker, M.', 'Luong-Van, D.', 'McMahon, J. J.', 'Mehl, J.', 'Meyer, S. S.', 'Mohr, J. J.', 'Montroy, T. E.', 'Padin, S.', 'Plagge, T.', 'Pryke, C.', 'Ruhl, J. E.', 'Schaffer, K. K.', 'Schwan, D.', 'Shirokoff, E.', 'Spieler, H. G.', 'Staniszewski, Z.', 'Stark, A. A.', 'Tucker, C.', 'Vanderlinde, K.', 'Vieira, J. D.', 'Williamson, R.']
+Author names from both sources:
+Wikidata            NASA ADS
+J. E. Carlstrom     Carlstrom, J. E.
+Sleeping for 4.8 seconds, 2022-04-16 18:07:15
+Sleeping for 9.4 seconds, 2022-04-16 18:07:20
+K. A. Aird          Aird, K. A.
+Sleeping for 9.4 seconds, 2022-04-16 18:07:30
+Sleeping for 9.4 seconds, 2022-04-16 18:07:40
+B. A. Benson        Benson, B. A.
+Sleeping for 9.3 seconds, 2022-04-16 18:07:50
+Sleeping for 9.2 seconds, 2022-04-16 18:08:00
+L. E. Bleem         Bleem, L. E.
+Sleeping for 9.3 seconds, 2022-04-16 18:08:10
+Sleeping for 9.4 seconds, 2022-04-16 18:08:20
+S. Busetti          Busetti, S.
+Sleeping for 9.5 seconds, 2022-04-16 18:08:30
+Sleeping for 9.4 seconds, 2022-04-16 18:08:40
+C. L. Chang         Chang, C. L.
+Sleeping for 9.4 seconds, 2022-04-16 18:08:50
+Sleeping for 9.4 seconds, 2022-04-16 18:09:00
+E. Chauvin          Chauvin, E.
+Sleeping for 9.4 seconds, 2022-04-16 18:09:10
+Sleeping for 9.4 seconds, 2022-04-16 18:09:20
+H. -M. Cho          Cho, H. -M.
+Sleeping for 9.5 seconds, 2022-04-16 18:09:30
+Sleeping for 9.4 seconds, 2022-04-16 18:09:40
+T. M. Crawford      Crawford, T. M.
+Sleeping for 9.2 seconds, 2022-04-16 18:09:50
+Sleeping for 9.3 seconds, 2022-04-16 18:10:00
+A. T. Crites        Crites, A. T.
+Sleeping for 9.3 seconds, 2022-04-16 18:10:10
+Sleeping for 9.4 seconds, 2022-04-16 18:10:20
+M. A. Dobbs         Dobbs, M. A.
+Sleeping for 9.3 seconds, 2022-04-16 18:10:30
+Sleeping for 9.2 seconds, 2022-04-16 18:10:40
+N. W. Halverson     Halverson, N. W.
+Sleeping for 9.4 seconds, 2022-04-16 18:10:50
+Sleeping for 9.4 seconds, 2022-04-16 18:11:00
+S. Heimsath         Heimsath, S.
+Sleeping for 9.4 seconds, 2022-04-16 18:11:10
+Sleeping for 9.5 seconds, 2022-04-16 18:11:20
+W. L. Holzapfel     Holzapfel, W. L.
+Sleeping for 9.4 seconds, 2022-04-16 18:11:30
+Sleeping for 9.4 seconds, 2022-04-16 18:11:40
+J. D. Hrubes        Hrubes, J. D.
+Sleeping for 9.2 seconds, 2022-04-16 18:11:50
+Sleeping for 9.3 seconds, 2022-04-16 18:12:00
+M. Joy              Joy, M.
+Sleeping for 9.5 seconds, 2022-04-16 18:12:10
+Sleeping for 9.4 seconds, 2022-04-16 18:12:20
+R. Keisler          Keisler, R.
+Sleeping for 9.3 seconds, 2022-04-16 18:12:30
+Sleeping for 9.4 seconds, 2022-04-16 18:12:40
+T. M. Lanting       Lanting, T. M.
+Sleeping for 9.4 seconds, 2022-04-16 18:12:50
+Sleeping for 9.4 seconds, 2022-04-16 18:13:00
+A. T. Lee           Lee, A. T.
+Sleeping for 9.4 seconds, 2022-04-16 18:13:10
+Sleeping for 9.4 seconds, 2022-04-16 18:13:20
+E. M. Leitch        Leitch, E. M.
+Sleeping for 9.4 seconds, 2022-04-16 18:13:30
+Sleeping for 9.3 seconds, 2022-04-16 18:13:40
+J. Leong            Leong, J.
+Sleeping for 9.4 seconds, 2022-04-16 18:13:50
+Sleeping for 9.4 seconds, 2022-04-16 18:14:00
+W. Lu               Lu, W.
+Sleeping for 9.3 seconds, 2022-04-16 18:14:10
+Sleeping for 9.3 seconds, 2022-04-16 18:14:20
+M. Lueker           Lueker, M.
+Sleeping for 9.3 seconds, 2022-04-16 18:14:30
+Sleeping for 9.4 seconds, 2022-04-16 18:14:40
+D. Luong-Van        Luong-Van, D.
+Sleeping for 9.4 seconds, 2022-04-16 18:14:50
+Sleeping for 9.4 seconds, 2022-04-16 18:15:00
+J. J. McMahon       McMahon, J. J.
+Sleeping for 9.4 seconds, 2022-04-16 18:15:10
+Sleeping for 9.4 seconds, 2022-04-16 18:15:20
+J. Mehl             Mehl, J.
+Sleeping for 9.3 seconds, 2022-04-16 18:15:30
+Sleeping for 9.4 seconds, 2022-04-16 18:15:40
+S. S. Meyer         Meyer, S. S.
+Sleeping for 9.4 seconds, 2022-04-16 18:15:50
+Sleeping for 9.2 seconds, 2022-04-16 18:16:01
+J. J. Mohr          Mohr, J. J.
+Sleeping for 9.3 seconds, 2022-04-16 18:16:10
+Sleeping for 9.3 seconds, 2022-04-16 18:16:20
+T. E. Montroy       Montroy, T. E.
+Sleeping for 9.3 seconds, 2022-04-16 18:16:30
+Sleeping for 9.3 seconds, 2022-04-16 18:16:40
+S. Padin            Padin, S.
+Sleeping for 9.3 seconds, 2022-04-16 18:16:50
+Sleeping for 9.4 seconds, 2022-04-16 18:17:00
+T. Plagge           Plagge, T.
+Sleeping for 9.5 seconds, 2022-04-16 18:17:10
+Sleeping for 9.4 seconds, 2022-04-16 18:17:20
+C. Pryke            Pryke, C.
+Sleeping for 9.4 seconds, 2022-04-16 18:17:30
+Sleeping for 9.4 seconds, 2022-04-16 18:17:40
+J. E. Ruhl          Ruhl, J. E.
+Sleeping for 9.3 seconds, 2022-04-16 18:17:50
+Sleeping for 9.2 seconds, 2022-04-16 18:18:01
+K. K. Schaffer      Schaffer, K. K.
+Sleeping for 9.4 seconds, 2022-04-16 18:18:10
+Sleeping for 9.3 seconds, 2022-04-16 18:18:21
+D. Schwan           Schwan, D.
+Sleeping for 9.2 seconds, 2022-04-16 18:18:31
+Sleeping for 9.4 seconds, 2022-04-16 18:18:40
+E. Shirokoff        Shirokoff, E.
+Sleeping for 9.3 seconds, 2022-04-16 18:18:51
+Sleeping for 9.4 seconds, 2022-04-16 18:19:00
+H. G. Spieler       Spieler, H. G.
+Sleeping for 9.4 seconds, 2022-04-16 18:19:10
+Sleeping for 9.4 seconds, 2022-04-16 18:19:20
+Z. Staniszewski     Staniszewski, Z.
+Sleeping for 9.4 seconds, 2022-04-16 18:19:30
+Sleeping for 9.3 seconds, 2022-04-16 18:19:41
+A. A. Stark         Stark, A. A.
+Sleeping for 9.3 seconds, 2022-04-16 18:19:51
+Sleeping for 9.4 seconds, 2022-04-16 18:20:00
+J. D. Vieira        Vieira, J. D.
+Sleeping for 9.4 seconds, 2022-04-16 18:20:10
+Sleeping for 9.2 seconds, 2022-04-16 18:20:21
+R. Williamson       Williamson, R.
+Sleeping for 9.3 seconds, 2022-04-16 18:20:31
+Sleeping for 9.3 seconds, 2022-04-16 18:20:41
+Carole Tucker       Tucker, C.
+Sleeping for 8.8 seconds, 2022-04-16 18:20:51
+Sleeping for 9.4 seconds, 2022-04-16 18:21:00
+Keith Vanderlinde   Vanderlinde, K.
+Sleeping for 8.6 seconds, 2022-04-16 18:21:11
+Sleeping for 9.4 seconds, 2022-04-16 18:21:21
+Peter A. R. Ade     Ade, P. A. R.
+Sleeping for 9.0 seconds, 2022-04-16 18:21:31
+Sleeping for 9.1 seconds, 2022-04-16 18:21:41
